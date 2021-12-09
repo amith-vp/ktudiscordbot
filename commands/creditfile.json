@@ -1,0 +1,161 @@
+{
+    "COMPUTER SCIENCE AND ENGINEERING": {
+        
+        "S1": [
+            {"name": "LINEAR ALGEBRA AND CALCULUS ", "credit": 4},
+            {"name": "ENGINEERING PHYSICS / ENGINEERING CHEMISTRY","credit": 4},
+            {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS","credit": 3},
+            {"name": "BASICS OF CIVIL & MECHANICAL ENGINEERING / BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING ","credit": 4},
+            {"name": "ENGINEERING PHYSICS LAB/ENGINEERING CHEMISTRY LAB","credit": 1},
+            {"name": "CIVIL & MECHANICAL WORKSHOP / ELECTRICAL & ELECTRONICS WORKSHOP ","credit": 1}
+        ],
+        "S2": [
+            {"name": "VECTOR CALCULUS , DIFFERENTIAL EQUATIONS AND TRANSFORMS", "credit": 4},
+            {"name": "ENGINEERING PHYSICS / ENGINEERING CHEMISTRY","credit": 4},
+            {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS","credit": 3},
+            {"name": "BASICS OF CIVIL & MECHANICAL ENGINEERING / BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING ","credit": 4},
+            {"name": "PROGRAMMING IN C","credit": 4},
+            {"name": "ENGINEERING PHYSICS LAB/ENGINEERING CHEMISTRY LAB","credit": 1},
+            {"name": "CIVIL & MECHANICAL WORKSHOP /ELECTRICAL & ELECTRONICS WORKSHOP ","credit": 1}
+        ],
+        "S3": [
+            {"name": "DISCRETE MATHEMATICAL STRUCTURES", "credit": 4},
+            {"name": "DATA STRUCTURES","credit": 4},
+            {"name": "LOGIC SYSTEM DESIGN","credit": 4},
+            {"name": "OBJECT ORIENTED PROGRAMMING USING JAVA","credit": 4},
+            {"name": "DESIGN & ENGINEERING / PROFESSIONAL ETHICS","credit": 2},
+            {"name": "DATA STRUCTURES LAB","credit": 1},
+            {"name": "OBJECT ORIENTED PROGRAMMING LAB (IN JAVA) ","credit": 1}
+        ],
+        "S4": [
+            {"name": "GRAPH THEORY", "credit": 4},
+            {"name": "COMPUTER ORGANIZATION AND ARCHITECTURE","credit": 4},
+            {"name": "DATABASE MANAGEMENT SYSTEMS","credit": 4},
+            {"name": "OPERATING SYSTEMS ","credit": 4},
+            {"name": "DESIGN & ENGINEERING / PROFESSIONAL ETHICS","credit": 2},
+            {"name": "DIGITAL LAB ","credit": 2},
+            {"name": "OPERATING SYSTEMS LAB ","credit": 2}
+        ],
+        "S5": [
+            {"name": "FORMAL LANGUAGES AND AUTOMATA THEORY", "credit": 4},
+            {"name": "COMPUTER NETWORKS","credit": 4},
+            {"name": "SYSTEM SOFTWARE","credit": 4},
+            {"name": "MICROPROCESSORS AND MICROCONTROLLERS","credit": 4},
+            {"name": "MANAGEMENT OF SOFTWARE SYSTEMS","credit": 3},
+            {"name": "SYSTEM SOFTWARE AND MICROPROCESSORS LAB","credit": 2},
+            {"name": "DATABASE MANAGEMENT SYSTEMS LAB ","credit": 2}
+
+        ],
+        "S6": [
+            {"name": "COMPILER DESIGN", "credit": 4},
+            {"name": "COMPUTER GRAPHICS AND IMAGE PROCESSING","credit": 4},
+            {"name": "ALGORITHM ANA LYSIS AND DESIGN","credit": 4},
+            {"name": "PROGRAM ELECTIVE I ","credit": 3},
+            {"name": "INDUSTRIAL ECONOMICS & FOREIGN TRADE","credit": 3},
+            {"name": "COMPREHENSIVE COURSE WORK","credit": 1},
+            {"name": "NETWORKING LAB ","credit": 2},
+            {"name": "MINIPROJECT ","credit": 2}
+        ],
+        "S7": [
+            {"name": "ARTIFICIAL INTELLIGENCE", "credit": 3},
+            {"name": "PROGRAM ELECTIVE II","credit": 3},
+            {"name": "OPEN ELECTIVE ","credit": 3},
+            {"name": "COMPILER LAB ","credit": 2},
+            {"name": "SEMINAR","credit": 2},
+            {"name": "PROJECT PHASE I","credit": 2}        ],
+        "S8": [
+            {"name": "DISTRIBUTED COMPUTING", "credit": 3},
+            {"name": "PROGRAM ELECTIVE III ","credit": 3},
+            {"name": "PROGRAM ELECTIVE IV ","credit": 3},
+            {"name": "PROGRAM ELECTIVE V","credit": 3},
+            {"name": "COMPREHENSIVE COURSE VIVA","credit": 1},
+            {"name": "PROJECT PHASE II ","credit": 4} 
+       ]
+        
+    }, 
+    "ELECTRONICS & COMMUNICATION ENGINEERING": {
+        
+        "S1": [
+            {"name": "LINEAR ALGEBRA AND CALCULUS ", "credit": 4},
+            {"name": "ENGINEERING PHYSICS / ENGINEERING CHEMISTRY","credit": 4},
+            {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS","credit": 3},
+            {"name": "BASICS OF CIVIL & MECHANICAL ENGINEERING / BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING ","credit": 4},
+            {"name": "ENGINEERING PHYSICS LAB/ENGINEERING CHEMISTRY LAB","credit": 1},
+            {"name": "CIVIL & MECHANICAL WORKSHOP / ELECTRICAL & ELECTRONICS WORKSHOP ","credit": 1}
+        ],
+        "S2": [
+            {"name": "VECTOR CALCULUS , DIFFERENTIAL EQUATIONS AND TRANSFORMS", "credit": 4},
+            {"name": "ENGINEERING PHYSICS / ENGINEERING CHEMISTRY","credit": 4},
+            {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS","credit": 3},
+            {"name": "BASICS OF CIVIL & MECHANICAL ENGINEERING / BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING ","credit": 4},
+            {"name": "PROGRAMMING IN C","credit": 4},
+            {"name": "ENGINEERING PHYSICS LAB/ENGINEERING CHEMISTRY LAB","credit": 1},
+            {"name": "CIVIL & MECHANICAL WORKSHOP /ELECTRICAL & ELECTRONICS WORKSHOP ","credit": 1}
+        ]
+        
+    }, 
+    "ELECTRICAL & ELECTRONICS ENGINEERING": {
+        
+        "S1": [
+            {"name": "LINEAR ALGEBRA AND CALCULUS ", "credit": 4},
+            {"name": "ENGINEERING PHYSICS / ENGINEERING CHEMISTRY","credit": 4},
+            {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS","credit": 3},
+            {"name": "BASICS OF CIVIL & MECHANICAL ENGINEERING / BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING ","credit": 4},
+            {"name": "ENGINEERING PHYSICS LAB/ENGINEERING CHEMISTRY LAB","credit": 1},
+            {"name": "CIVIL & MECHANICAL WORKSHOP / ELECTRICAL & ELECTRONICS WORKSHOP ","credit": 1}
+        ],
+        "S2": [
+            {"name": "VECTOR CALCULUS , DIFFERENTIAL EQUATIONS AND TRANSFORMS", "credit": 4},
+            {"name": "ENGINEERING PHYSICS / ENGINEERING CHEMISTRY","credit": 4},
+            {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS","credit": 3},
+            {"name": "BASICS OF CIVIL & MECHANICAL ENGINEERING / BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING ","credit": 4},
+            {"name": "PROGRAMMING IN C","credit": 4},
+            {"name": "ENGINEERING PHYSICS LAB/ENGINEERING CHEMISTRY LAB","credit": 1},
+            {"name": "CIVIL & MECHANICAL WORKSHOP /ELECTRICAL & ELECTRONICS WORKSHOP ","credit": 1}
+        ]
+        
+    }, 
+    "MECHANICAL ENGINEERING": {
+        
+        "S1": [
+            {"name": "LINEAR ALGEBRA AND CALCULUS ", "credit": 4},
+            {"name": "ENGINEERING PHYSICS / ENGINEERING CHEMISTRY","credit": 4},
+            {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS","credit": 3},
+            {"name": "BASICS OF CIVIL & MECHANICAL ENGINEERING / BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING ","credit": 4},
+            {"name": "ENGINEERING PHYSICS LAB/ENGINEERING CHEMISTRY LAB","credit": 1},
+            {"name": "CIVIL & MECHANICAL WORKSHOP / ELECTRICAL & ELECTRONICS WORKSHOP ","credit": 1}
+        ],
+        "S2": [
+            {"name": "VECTOR CALCULUS , DIFFERENTIAL EQUATIONS AND TRANSFORMS", "credit": 4},
+            {"name": "ENGINEERING PHYSICS / ENGINEERING CHEMISTRY","credit": 4},
+            {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS","credit": 3},
+            {"name": "BASICS OF CIVIL & MECHANICAL ENGINEERING / BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING ","credit": 4},
+            {"name": "PROGRAMMING IN C","credit": 4},
+            {"name": "ENGINEERING PHYSICS LAB/ENGINEERING CHEMISTRY LAB","credit": 1},
+            {"name": "CIVIL & MECHANICAL WORKSHOP /ELECTRICAL & ELECTRONICS WORKSHOP ","credit": 1}
+        ]
+        
+    }, 
+    "CIVIL ENGINEERING": {
+        
+        "S1": [
+            {"name": "LINEAR ALGEBRA AND CALCULUS ", "credit": 4},
+            {"name": "ENGINEERING PHYSICS / ENGINEERING CHEMISTRY","credit": 4},
+            {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS","credit": 3},
+            {"name": "BASICS OF CIVIL & MECHANICAL ENGINEERING / BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING ","credit": 4},
+            {"name": "ENGINEERING PHYSICS LAB/ENGINEERING CHEMISTRY LAB","credit": 1},
+            {"name": "CIVIL & MECHANICAL WORKSHOP / ELECTRICAL & ELECTRONICS WORKSHOP ","credit": 1}
+        ],
+        "S2": [
+            {"name": "VECTOR CALCULUS , DIFFERENTIAL EQUATIONS AND TRANSFORMS", "credit": 4},
+            {"name": "ENGINEERING PHYSICS / ENGINEERING CHEMISTRY","credit": 4},
+            {"name": "ENGINEERING MECHANICS / ENGINEERING GRAPHICS","credit": 3},
+            {"name": "BASICS OF CIVIL & MECHANICAL ENGINEERING / BASICS OF ELECTRICAL & ELECTRONICS ENGINEERING ","credit": 4},
+            {"name": "PROGRAMMING IN C","credit": 4},
+            {"name": "ENGINEERING PHYSICS LAB/ENGINEERING CHEMISTRY LAB","credit": 1},
+            {"name": "CIVIL & MECHANICAL WORKSHOP /ELECTRICAL & ELECTRONICS WORKSHOP ","credit": 1}
+        ]
+        
+    }
+  
+}
